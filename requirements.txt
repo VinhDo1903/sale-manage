@@ -1,4 +1,4 @@
-﻿arabic-reshaper==2.1.4
+arabic-reshaper==2.1.4
 asgiref==3.4.1
 backports.zoneinfo==0.2.1
 Django==4.0.1
@@ -16,3 +16,4 @@ sqlparse==0.4.2
 tzdata==2021.5
 webencodings==0.5.1
 xhtml2pdf==0.2.5
+pytest==7.4.0  
