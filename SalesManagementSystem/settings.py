@@ -81,16 +81,7 @@ WSGI_APPLICATION = 'SalesManagementSystem.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'salesmanagement-db',
-        'USER': 'docongvinh',
-        'PASSWORD': 'docongvinh',
-        'HOST': '127.0.0.1',
-        'PORT': '3306',
-    }
-}
+DATABASES = {}
 
 
 # Password validation
